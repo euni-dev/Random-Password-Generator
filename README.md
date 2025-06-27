@@ -1,6 +1,6 @@
 # Random-Password-Generator
 
-This Python program generates rnadom paswords of a specified length. 
+This Python program generates random passwords of a specified length. 
 It helps create secure passwords to improve account safety. 
 
 ## Features
